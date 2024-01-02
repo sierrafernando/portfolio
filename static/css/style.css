@@ -107,7 +107,7 @@ a{
     height: 30px;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 600px) {
     h1 {
         font-size: 24pt;
     }
